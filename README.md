@@ -15,7 +15,7 @@
 ---
 
 ## 2. Types of SQL Injection
-The video classifies SQLi into three major categories:
+The post classifies SQLi into three major categories:
 
 ### A. In-band (Classic) SQL Injection
 The attacker uses the same communication channel to launch the attack and gather results. Results are visible directly in the application.
@@ -33,7 +33,7 @@ Used when the attacker cannot use the same channel to retrieve results. It relie
 ---
 
 ## 3. Finding SQL Injection Vulnerabilities
-The video outlines methodologies for finding vulnerabilities based on the testing perspective:
+The post outlines methodologies for finding vulnerabilities based on the testing perspective:
 
 | Testing Method        | Perspective        | Key Actions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | :-------------------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -72,7 +72,7 @@ Detailed techniques for exploiting the specific types identified:
 ---
 
 ## 5. Preventing SQL Injection
-The video emphasizes specific defenses, prioritized by effectiveness.
+The post emphasizes specific defenses, prioritized by effectiveness.
 
 > **Primary Defense: Prepared Statements (Parameterized Queries)**
 > * **The "Correct" Way:** This is the most effective defense.
